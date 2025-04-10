@@ -3,16 +3,16 @@
 
 ## v0.1.0
 
-[compare changes](https://github.com/sumitkolhe/jiosaavn-api/compare/v0.0.6...v0.1.0)
+[compare changes](https://github.com/Subhendu1987/saavn_api/compare/v0.0.6...v0.1.0)
 
 ### 🚀 Enhancements
 
-- Use enums for context type ([2d7095c](https://github.com/sumitkolhe/jiosaavn-api/commit/2d7095c))
-- ⚠️  Remove lyrics API endpoint ([a34bfea](https://github.com/sumitkolhe/jiosaavn-api/commit/a34bfea))
+- Use enums for context type ([2d7095c](https://github.com/Subhendu1987/saavn_api/commit/2d7095c))
+- ⚠️  Remove lyrics API endpoint ([a34bfea](https://github.com/Subhendu1987/saavn_api/commit/a34bfea))
 
 ### 🩹 Fixes
 
-- Random 403 errors from jiosaavn if user-agent was missing ([45ad747](https://github.com/sumitkolhe/jiosaavn-api/commit/45ad747))
+- Random 403 errors from jiosaavn if user-agent was missing ([45ad747](https://github.com/Subhendu1987/saavn_api/commit/45ad747))
 
 #### ⚠️ Breaking Changes
 
@@ -20,39 +20,39 @@
 
 ### ❤️ Contributors
 
-- Sumit Kolhe ([@sumitkolhe](https://github.com/sumitkolhe))
+- Subhendu Chowdhury ([@sumitkolhe](https://github.com/Subhendu1987))
 
 ## v0.0.6
 
-[compare changes](https://github.com/sumitkolhe/jiosaavn-api/compare/v0.0.5...v0.0.6)
+[compare changes](https://github.com/Subhendu1987/saavn_api/compare/v0.0.5...v0.0.6)
 
 ### 🚀 Enhancements
 
-- Add vercel deployment ([627209f](https://github.com/sumitkolhe/jiosaavn-api/commit/627209f))
+- Add vercel deployment ([627209f](https://github.com/Subhendu1987/saavn_api/commit/627209f))
 
 ### 📖 Documentation
 
-- Add cloudflare and vercel deployment instructions ([f1aad15](https://github.com/sumitkolhe/jiosaavn-api/commit/f1aad15))
+- Add cloudflare and vercel deployment instructions ([f1aad15](https://github.com/Subhendu1987/saavn_api/commit/f1aad15))
 
 ### ❤️ Contributors
 
-- Sumit Kolhe ([@sumitkolhe](http://github.com/sumitkolhe))
+- Sumit Kolhe ([@sumitkolhe](http://github.com/Subhendu1987))
 
 ## v0.0.5
 
-[compare changes](https://github.com/sumitkolhe/jiosaavn-api/compare/v0.0.4...v0.0.5)
+[compare changes](https://github.com/Subhendu1987/jiosaavn-api/compare/v0.0.4...v0.0.5)
 
 ### 🩹 Fixes
 
-- Allow CORS ([902ad16](https://github.com/sumitkolhe/jiosaavn-api/commit/902ad16))
+- Allow CORS ([902ad16](https://github.com/Subhendu1987/jiosaavn-api/commit/902ad16))
 
 ### ❤️ Contributors
 
-- Sumit Kolhe ([@sumitkolhe](http://github.com/sumitkolhe))
+- Subhendu Chowdhury ([@Subhendu1987](http://github.com/Subhendu1987))
 
 ## v0.0.4
 
-[compare changes](https://github.com/sumitkolhe/jiosaavn-api/compare/v0.0.3...v0.0.4)
+[compare changes](https://github.com/Subhendu1987/jiosaavn-api/compare/v0.0.3...v0.0.4)
 
 ### 🚀 Enhancements
 
@@ -66,9 +66,7 @@
 
 ### ❤️ Contributors
 
-- Sumit Kolhe ([@sumitkolhe](http://github.com/sumitkolhe))
-- Sbendalam <sbendalam@miraclesoft.com>
-- Sai Krishna Bendalam <saibendalam@people.health>
+- Subhendu Chowdhury ([@Subhendu1987](http://github.com/Subhendu1987))
 
 ## v0.0.3
 
@@ -101,7 +99,7 @@
 
 ### ❤️ Contributors
 
-- Sumit Kolhe ([@sumitkolhe](http://github.com/sumitkolhe))
+- Subhendu Chowdhury ([@sumitkolhe](http://github.com/Subhendu1987))
 
 ## v0.0.2
 
@@ -114,9 +112,9 @@
 
 ### 📖 Documentation
 
-- **changelog:** Add changelog hyperlink ([6b22a7c](https://github.com/sumitkolhe/jiosaavn-api/commit/6b22a7c))
+- **changelog:** Add changelog hyperlink ([6b22a7c](https://github.com/Subhendu1987/saavn_api/commit))
 
 ### ❤️ Contributors
 
-- Sumit Kolhe ([@sumitkolhe](http://github.com/sumitkolhe))
+- Subhendu Chowdhury ([@Subhendu1987](http://github.com/Subhendu1987))
 
