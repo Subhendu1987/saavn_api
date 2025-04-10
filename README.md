@@ -1,7 +1,7 @@
 # JioSaavn API
 
-![GitHub License](https://img.shields.io/github/license/sumitkolhe/jiosaavn-api)
-![GitHub Release](https://img.shields.io/github/v/release/sumitkolhe/jiosaavn-api)
+![GitHub License](https://github.com/Subhendu1987/saavn_api)
+![GitHub Release](https://github.com/Subhendu1987/saavn_api)
 
 An Unofficial API for downloading high-quality songs, albums, playlists, and more from [JioSaavn](https://jiosaavn.com).
 
@@ -21,7 +21,7 @@ For a detailed list of changes, see the [CHANGELOG](CHANGELOG.md).
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/sumitkolhe/jiosaavn-api
+   git clone https://github.com/Subhendu1987/saavn_api
    cd jiosaavn-api
    ```
 
@@ -43,11 +43,11 @@ JioSaavn API can be deployed to either Cloudflare Workers or Vercel. Below are t
 
 ### Cloudflare Workers
 
-[![Deploy with Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/sumitkolhe/jiosaavn-api)
+[![Deploy with Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Subhendu1987/saavn_api)
 
 ### Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sumitkolhe/jiosaavn-api)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Subhendu1987/saavn_api)
 
 ## 📜 License
 
